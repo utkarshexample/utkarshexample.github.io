@@ -24,7 +24,7 @@ import {MatButtonModule} from '@angular/material/button';
     ContentModule,
     MatToolbarModule,
     MatIconModule,
-    MatButtonModule
+    MatButtonModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
