@@ -1,0 +1,9 @@
+
+::ng-deep .mat-grid-tile-content {
+    align-items: baseline !important;
+    justify-content: flex-start !important;
+}
+
+.row.mainBodyContent {
+    margin: 5px;
+}

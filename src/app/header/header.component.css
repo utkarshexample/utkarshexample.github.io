@@ -1,0 +1,16 @@
+.spacer {
+    flex: 1 1 auto;
+}
+mat-icon {
+    vertical-align: sub;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    color: #673ab7;
+}
+.info-card {
+    display: flex;
+    align-items: center;
+}

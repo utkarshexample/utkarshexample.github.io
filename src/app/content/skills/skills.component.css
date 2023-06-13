@@ -1,0 +1,6 @@
+::ng-deep .mat-mdc-standard-chip:not(.mdc-evolution-chip--disabled) .mdc-evolution-chip__text-label {
+    color: #FFFF !important;
+}
+.mat-mdc-standard-chip:not(.mdc-evolution-chip--disabled) {
+    background-color: #673ab7;
+}
